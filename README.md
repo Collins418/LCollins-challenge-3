@@ -1,6 +1,7 @@
 # Password Generator Starter Code
 Repo-https://github.com/Collins418/LCollins-Challenge-3.git
-Deploy-
+
+Deploy-https://collins418.github.io/LCollins-Challenge-3/
 
 
  Generate a random password based on certain criteria. This app will run in the browser with  HTML and CSS powered by your JavaScript code.
