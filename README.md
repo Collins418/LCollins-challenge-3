@@ -29,5 +29,7 @@ Acceptance Criteria
 ```WHEN the password is generated```
 ```THEN the password is either displayed in an alert or written to the page```
 
+Assignment from UT Coding bootcamp
+
 ![Screenshot 2022-07-07 200028](https://user-images.githubusercontent.com/106499144/177895557-10345737-2a8d-46b2-b065-ef88c7a49e1f.jpg)
 
