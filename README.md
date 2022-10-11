@@ -1,5 +1,5 @@
 # Password Generator Starter Code
-Repo-https://github.com/Collins418/LCollins-Challenge-3.git
+Repo-https://github.com/Collins418/Password-Generator
 
 Deploy-https://collins418.github.io/Password-Generator/
 
